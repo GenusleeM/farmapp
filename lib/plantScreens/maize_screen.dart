@@ -89,7 +89,6 @@ class _PlantDetailsState extends State<PlantDetails> {
               fontWeight: FontWeight.normal,
             ),
           ),
-         // subtitle: const Text('type of fertilizer'),
           trailing: Icon(
             _customTileExpanded
                 ? Icons.arrow_drop_down_circle
@@ -100,7 +99,6 @@ class _PlantDetailsState extends State<PlantDetails> {
               'type of fertilizer',
               style:  TextStyle(
                 fontSize: 15,
-               // fontWeight: FontWeight.bold,
               ),
             )
             ),
@@ -117,7 +115,6 @@ class _PlantDetailsState extends State<PlantDetails> {
               fontWeight: FontWeight.normal,
             ),
           ),
-          // subtitle: const Text('type of fertilizer'),
           trailing: Icon(
             _customTileExpanded
                 ? Icons.arrow_drop_down_circle
@@ -128,7 +125,6 @@ class _PlantDetailsState extends State<PlantDetails> {
               'weeds',
               style:  TextStyle(
                 fontSize: 15,
-                // fontWeight: FontWeight.bold,
               ),
             )
             ),
@@ -145,7 +141,6 @@ class _PlantDetailsState extends State<PlantDetails> {
               fontWeight: FontWeight.normal,
             ),
           ),
-          // subtitle: const Text('type of fertilizer'),
           trailing: Icon(
             _customTileExpanded
                 ? Icons.arrow_drop_down_circle
@@ -156,7 +151,6 @@ class _PlantDetailsState extends State<PlantDetails> {
               'diseases',
               style:  TextStyle(
                 fontSize: 15,
-                // fontWeight: FontWeight.bold,
               ),
             )
             ),
@@ -173,7 +167,6 @@ class _PlantDetailsState extends State<PlantDetails> {
               fontWeight: FontWeight.normal,
             ),
           ),
-          // subtitle: const Text('type of fertilizer'),
           trailing: Icon(
             _customTileExpanded
                 ? Icons.arrow_drop_down_circle
@@ -184,7 +177,6 @@ class _PlantDetailsState extends State<PlantDetails> {
               'Tips',
               style:  TextStyle(
                 fontSize: 15,
-                // fontWeight: FontWeight.bold,
               ),
             )
             ),
